@@ -2,9 +2,6 @@
 
 **QuickBite** is a full-featured food delivery web application offering a seamless ordering experience. Built with Java Servlets, JSP, and MySQL, it demonstrates a complete e-commerce flow from browsing a menu to placing secure orders.
 
-![QuickBite Banner](src/main/webapp/images/classic_burger.png)
-*(Note: Replace with a real screenshot of your homepage if available)*
-
 ## 🚀 Features
 
 *   **User Authentication**: Secure Login and Registration system.
