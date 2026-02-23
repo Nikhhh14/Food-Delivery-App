@@ -1,0 +1,23 @@
+# Maven
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# System
+.DS_Store
+Thumbs.db
